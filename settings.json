@@ -11,7 +11,7 @@
 
      "publik": true,
      "forwarding": true,
-     "Loading": true,
+     "Loading": false,
      "antitroli" : false,
      
      "autovn" : false,
